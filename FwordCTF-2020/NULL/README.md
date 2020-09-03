@@ -69,6 +69,6 @@ If you're wondering why we used the modulo (1<<32) in the script, it's because t
 
 running pngcheck again would give us **OK: NULL.png (878x329, 32-bit RGB+alpha, non-interlaced, 98.3%).** We open the [image](NULL.png) and enjoy our flag!
 
-![](Screeshot5.png)
+![](Screenshot5.png)
 
 **FLAG: FwordCTF{crc32_is_the_way}**
